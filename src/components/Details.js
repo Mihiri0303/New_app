@@ -2,9 +2,9 @@ import React from 'react';
 
 function Details() {
     return(
-        <div className= "px-10 my-5 w-96 flex-shrink-0"> 
-            <div className= "text-xl">Issue for Rent</div>
-            <div className= "flex items-center gap-3 mt-5">
+        <div className="px-10 my-5 w-96 flex-shrink-0"> 
+            <div className="text-xl">Issue for Rent</div>
+            <div className="flex items-center gap-3 mt-5">
                 <span className="flex-shrink-0">Invoice No</span> 
                 <input className="border-2 w-full border-gray-300 bg-white px-3 py-2 rounded-sm text-sm focus:outline-none" type="" name="" placeholder=""/>
             </div>
